@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Zakaria Echifaouy</h1>
 <h3 align="center">AI enthusiast from Morocco</h3>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zech-chi" alt="zech-chi's 42 stats" /></a>
+                            <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zech-chi" alt="zech-chi's 42 stats" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
