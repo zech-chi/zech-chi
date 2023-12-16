@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">AI enthusiast from Morocco</h3>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zech-chi" alt="zech-chi's 42 stats" /></a>
 ![download](https://github.com/zech-chi/zech-chi/assets/108145379/5cfdf04f-286c-40f2-b1aa-7f48d269cf8c)
-
+<img src="https://leetcode.com/medal/?showImg=1" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@zechifaouy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zechifaouy" height="30" width="40" /></a>
