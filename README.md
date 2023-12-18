@@ -27,10 +27,10 @@ Here are some ideas to get you started:
                                     /                                                \
                                    |    _________________________________________     |
                                    |   |                                         |    |
-                                   |   |  C:\> _                                 |    |
+                                   |   |  C:\> whoarewe                          |    |
+                                   |   |  we are samurai the keyboard cowboys.   |    |
                                    |   |                                         |    |
-                                   |   |                                         |    |
-                                   |   |                                         |    |
+                                   |   |  C:\>                                   |    |
                                    |   |                                         |    |
                                    |   |                                         |    |
                                    |   |                                         |    |
